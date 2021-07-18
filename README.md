@@ -1,2 +1,2 @@
 # courseraWebDev
-Week 2 coding module 
+Week 2 Web Dev coding module assignment
